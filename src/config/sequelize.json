@@ -1,0 +1,10 @@
+{
+  "username": "wesley",
+  "password": "q1r4w2e3",
+  "database": "rabecao",
+  "host": "localhost",
+  "dialect": "mysql",
+  "define": {
+    "timestamps": false
+  }
+}
