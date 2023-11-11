@@ -3,6 +3,6 @@ var _app = require('./config/app'); var _app2 = _interopRequireDefault(_app);
 
 _App2.default.listen(_app2.default.port, () => {
   console.log(
-    `The serve ${_app2.default.app_name} is running on port ${_app2.default.port}`
+    `The serve ${_app2.default.app_name} is running on ${_app2.default.url}:${_app2.default.port}`
   );
 });
